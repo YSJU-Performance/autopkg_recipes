@@ -39,7 +39,7 @@
         </dict>
         <dict>
             <key>Comment</key>
-            <string>Copy wallpapers</string>
+            <string>Copy wallpapers into /Library/Desktop Pictures</string>
             <key>Processor</key>
             <string>Copier</string>
             <key>Arguments</key>
