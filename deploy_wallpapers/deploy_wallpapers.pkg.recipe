@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>deploy_wallpapers</string>
+        <string>ysju-deploy_wallpapers</string>
         <key>URL</key>
         <string>https://github.com/andyfarthing/ysj-autopkg_recipes</string>
         <key>VERSION</key>
