@@ -12,9 +12,3 @@ rm -Rf /Users/$userFolder/Movies/*
 rm -Rf /Users/$userFolder/Music/* 
 rm -Rf /Users/$userFolder/Pictures/* 
 rm -Rf /Users/$userFolder/Public/*
-
-
-
-chmod 755 test.sh
-chown root:wheel test.sh
-
