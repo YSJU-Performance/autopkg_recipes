@@ -36,8 +36,6 @@
                     <string>0755</string>
                     <key>usr/local</key>
                     <string>0755</string>
-                    <key>usr/local/offset</key>
-                    <string>0755</string>
                 </dict>
             </dict>
         </dict>
