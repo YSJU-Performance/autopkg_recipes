@@ -36,6 +36,8 @@
                     <string>0755</string>
                     <key>usr/local</key>
                     <string>0755</string>
+                    <key>usr/local/offset</key>
+                    <string>0755</string>
                 </dict>
             </dict>
         </dict>
@@ -49,7 +51,7 @@
                 <key>source_path</key>
                 <string>%RECIPE_DIR%/payload</string>
                 <key>destination_path</key>
-                <string>%pkgroot%/usr/local/offset</string>
+                <string>%pkgroot%/usr/local/offset/logout-every</string>
             </dict>
         </dict>
          <dict>
