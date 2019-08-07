@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Description</key>
+    <string>Downloads the most recent version of Reason</string>
+    <key>Identifier</key>
+    <string>com.github.andyfarthing.download.propellerheadreason</string>
+    <key>Input</key>
+    <dict>
+        <key>NAME</key>
+        <string>Propellerhead Reason</string>
+        <key>REASON_VERS</key>
+        <string>10</string>
+    </dict>
+    <key>MinimumVersion</key>
+    <string>0.3.1</string>
+    <key>Process</key>
+    <array>
+        <dict>
+            <key>Processor</key>
+            <string>URLTextSearcher</string>
+            <key>Arguments</key>
+            <dict>
+                <key>url</key>
+                <string>https://www.propellerheads.com/shop/product/reason-10/</string>
+                <key>re_pattern</key>
+                <string>Version: %REASON_VERS%.(?P&lt;version&gt;(\d)+)</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Processor</key>
+            <string>URLDownloader</string>
+            <key>Arguments</key>
+            <dict>
+                <key>url</key>
+                <string>http://cdn.propellerheads.se/Reason%REASON_VERS%/Reason_%REASON_VERS%%version%0_d4.dmg</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>Processor</key>
+            <string>EndOfCheckPhase</string>
+        </dict>
+    </array>
+</dict>
+</plist>
