@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# Wipes the user folders on logout
+# Wipes the student user folders on logout
 
-userFolder="Student"
+userFolder="student"
 
 rm -Rf /Users/$userFolder/Applications/* 
 rm -Rf /Users/$userFolder/Desktop/* 
