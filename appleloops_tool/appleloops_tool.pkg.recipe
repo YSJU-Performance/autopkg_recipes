@@ -41,7 +41,7 @@
         </dict>
         <dict>
             <key>Comment</key>
-            <string>Copy scripts into offset directory</string>
+            <string>Copy appleLoops.py into /usr/local/bin directory</string>
             <key>Processor</key>
             <string>Copier</string>
             <key>Arguments</key>
