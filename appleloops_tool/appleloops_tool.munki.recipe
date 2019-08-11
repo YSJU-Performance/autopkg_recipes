@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Imports the Apple Loops dpwnloader tool from https://github.com/carlashley/appleloops into Munki</string>
+	<string>Imports the Apple Loops downloader tool from https://github.com/carlashley/appleloops into Munki</string>
     <key>Identifier</key>
     <string>com.github.andyfarthing.munki.appleloops_py</string>
     <key>Input</key>
