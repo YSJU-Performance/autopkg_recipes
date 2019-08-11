@@ -68,7 +68,7 @@
                     <key>version</key>
                     <string>%VERSION%</string>
                     <key>pkgdir</key>
-                    <string>%RECIPE_DIR%/build</string>
+                    <string>%RECIPE_CACHE_DIR%/package</string>
                     <key>id</key>
                     <string>%PKG_ID%</string>
                     <key>options</key>
