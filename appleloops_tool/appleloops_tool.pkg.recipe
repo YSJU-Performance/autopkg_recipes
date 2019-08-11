@@ -77,13 +77,13 @@
                     <array>
                         <dict>
                             <key>path</key>
-                            <string>/usr/local/bin/appleLoops.py</string>
+                            <string>usr/local/bin/appleLoops.py</string>
                             <key>user</key>
                             <string>root</string>
                             <key>group</key>
                             <string>wheel</string>
                             <key>mode</key>
-                            <string>755</string>
+                            <string>0755</string>
                         </dict>
                     </array>
                 </dict>
