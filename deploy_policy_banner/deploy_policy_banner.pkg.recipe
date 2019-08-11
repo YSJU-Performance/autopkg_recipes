@@ -13,7 +13,7 @@
         <key>URL</key>
         <string>https://github.com/andyfarthing/ysj-autopkg_recipes</string>
         <key>VERSION</key>
-        <string>1.0</string>
+        <string>1.1</string>
         <key>PKG_ID</key>
         <string>com.github.andyfarthing.deploypolicybanner</string>
     </dict>
