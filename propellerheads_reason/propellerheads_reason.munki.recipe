@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string></string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.munki.propellerhead_reason</string>
+    <string>com.github.ysju-performance.munki.propellerheads_reason</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_CATEGORY</key>
@@ -25,7 +25,7 @@
             <key>description</key>
             <string>Reason is easy to get started with, yet as deep as you want it to be. And it comes fully loaded with the instruments, effects and sounds your music making need. Create, compose, mix and finish your music–Reason will help you along the journey, from inspiration to mixdown.</string>
             <key>developer</key>
-            <string>Propellerhead</string>
+            <string>Propellerheads</string>
             <key>display_name</key>
             <string>Reason</string>
             <key>name</key>
@@ -37,7 +37,7 @@
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.ysju-performance.pkg.propellerhead_reason</string>
+    <string>com.github.ysju-performance.pkg.propellerheads_reason</string>
     <key>Process</key>
     <array>
     	<dict>

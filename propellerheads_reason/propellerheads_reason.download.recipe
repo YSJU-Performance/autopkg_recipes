@@ -5,11 +5,11 @@
     <key>Description</key>
     <string>Downloads the most recent version of Reason</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.download.propellerhead_reason</string>
+    <string>com.github.ysju-performance.download.propellerheads_reason</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>Propellerhead Reason</string>
+        <string>Propellerheads Reason</string>
         <key>REASON_MAIN_VERS</key>
         <string>10</string>
     </dict>
