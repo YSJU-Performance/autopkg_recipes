@@ -72,6 +72,8 @@ exit 0
 			<true/>
 		</dict>
 	</dict>
+	<key>MinimumVersion</key>
+    <string>1.0.0</string>
 	<key>ParentRecipe</key>
 	<string>com.github.andyfarthing.pkg.native_access</string>
 	<key>Process</key>
