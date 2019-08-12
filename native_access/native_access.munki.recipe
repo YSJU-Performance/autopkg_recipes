@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest release version of Native Access and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.ysju-performance.munki.nativeaccess</string>
+	<string>com.github.ysju-performance.munki.native_access</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
