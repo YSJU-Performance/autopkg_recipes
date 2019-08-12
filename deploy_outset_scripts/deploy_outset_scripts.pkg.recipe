@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Builds a package that places outset scripts into the correct folder.</string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.deploy_offset_scripts</string>
+    <string>com.github.andyfarthing.deploy_outset_scripts</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -51,7 +51,7 @@
                 <key>source_path</key>
                 <string>%RECIPE_DIR%/payload</string>
                 <key>destination_path</key>
-                <string>%pkgroot%/usr/local/offset/logout-every</string>
+                <string>%pkgroot%/usr/local/outset/</string>
             </dict>
         </dict>
          <dict>
@@ -77,7 +77,7 @@
                     <array>
                         <dict>
                             <key>path</key>
-                            <string>/usr/local/offset</string>
+                            <string>/usr/local/outset</string>
                             <key>user</key>
                             <string>root</string>
                             <key>group</key>
