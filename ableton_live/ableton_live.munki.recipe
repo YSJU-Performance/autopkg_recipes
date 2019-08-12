@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Make an override of this recipe in order to specify the necessary Ableton Live download information, including LIVE_VERS and EDITION</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.munki.abletonlive</string>
+    <string>com.github.ysju-performance.munki.ableton_live</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_CATEGORY</key>
@@ -39,7 +39,7 @@ Create in a traditional linear arrangement, or improvise without the constraints
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.ysju-performance.download.abletonlive</string>
+    <string>com.github.ysju-performance.download.ableton_live</string>
     <key>Process</key>
     <array>
     	<dict>

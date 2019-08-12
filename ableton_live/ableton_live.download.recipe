@@ -9,7 +9,7 @@
 LIVE_VERS is the major version of Live. The two most recent versions are supported (currently 9 and 10).
 Possible values for EDITION are: trial, lite, intro, standard, and suite.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.download.abletonlive</string>
+    <string>com.github.ysju-performance.download.ableton_live</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
