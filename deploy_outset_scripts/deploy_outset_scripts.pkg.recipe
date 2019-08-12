@@ -56,6 +56,7 @@
                 <string>%RECIPE_DIR%/payload/boot-every</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/usr/local/outset/</string>
+                <key>source_path</key>
                 <string>%RECIPE_DIR%/payload/login-once</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/usr/local/outset/</string>
