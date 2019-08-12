@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Builds a package that places outset scripts into the correct folder.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.pkg.s_reason</string>
+    <string>com.github.ysju-performance.pkg.propellerheads_reason</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
