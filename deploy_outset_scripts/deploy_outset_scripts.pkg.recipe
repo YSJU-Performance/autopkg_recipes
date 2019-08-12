@@ -36,8 +36,6 @@
                     <string>0755</string>
                     <key>usr/local</key>
                     <string>0755</string>
-                    <key>usr/local/outset</key>
-                    <string>0755</string>
                 </dict>
             </dict>
         </dict>
@@ -49,29 +47,9 @@
             <key>Arguments</key>
             <dict>
                 <key>source_path</key>
-                <string>%RECIPE_DIR%/payload/boot-once</string>
+                <string>%RECIPE_DIR%/payload/</string>
                 <key>destination_path</key>
-                <string>%pkgroot%/usr/local/outset/boot-once</string>
-                <key>source_path</key>
-                <string>%RECIPE_DIR%/payload/boot-every</string>
-                <key>destination_path</key>
-                <string>%pkgroot%/usr/local/outset/boot-every</string>
-                <key>source_path</key>
-                <string>%RECIPE_DIR%/payload/login-once</string>
-                <key>destination_path</key>
-                <string>%pkgroot%/usr/local/outset/login-once</string>
-                <key>source_path</key>
-                <string>%RECIPE_DIR%/payload/login-every</string>
-                <key>destination_path</key>
-                <string>%pkgroot%/usr/local/outset/login-every</string>
-                <key>source_path</key>
-                <string>%RECIPE_DIR%/payload/login-priveleged-once</string>
-                <key>destination_path</key>
-                <string>%pkgroot%/usr/local/outset/login-priveleged-onc</string>
-                <key>source_path</key>
-                <string>%RECIPE_DIR%/payload/login-priveleged-every</string>
-                <key>destination_path</key>
-                <string>%pkgroot%/usr/local/outset/login-priveleged-every</string>
+                <string>%pkgroot%/usr/local/outset/</string>
             </dict>
         </dict>
          <dict>
