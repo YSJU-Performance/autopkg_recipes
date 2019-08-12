@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Native Instruments Native Access. Based on: https://github.com/autopkg/neilmartin83-recipes</string>
 	<key>Identifier</key>
-	<string>com.github.andyfarthing.download.native_access</string>
+	<string>com.github.ysju-performance.download.native_access</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>

@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string></string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.munki.propellerheadreason</string>
+    <string>com.github.ysju-performance.munki.propellerheadreason</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_CATEGORY</key>
@@ -37,7 +37,7 @@
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.andyfarthing.pkg.propellerheadreason</string>
+    <string>com.github.ysju-performance.pkg.propellerheadreason</string>
     <key>Process</key>
     <array>
     	<dict>

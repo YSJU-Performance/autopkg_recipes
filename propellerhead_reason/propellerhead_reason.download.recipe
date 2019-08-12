@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the most recent version of Reason</string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.download.propellerheadreason</string>
+    <string>com.github.ysju-performance.download.propellerheadreason</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>

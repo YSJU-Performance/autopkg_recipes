@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest version of MuseScore using the GitHub release info.</string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.download.musescore</string>
+    <string>com.github.ysju-performance.download.musescore</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>

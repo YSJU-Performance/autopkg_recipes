@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest release version of MuseScore and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.andyfarthing.munki.musescore</string>
+	<string>com.github.ysju-performance.munki.musescore</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -35,7 +35,7 @@
 		</dict>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.andyfarthing.download.musescore</string>
+	<string>com.github.ysju-performance.download.musescore</string>
 	<key>Process</key>
 	<array>
 		<dict>

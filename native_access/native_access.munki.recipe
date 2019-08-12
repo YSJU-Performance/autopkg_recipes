@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest release version of Native Access and imports into Munki.</string>
 	<key>Identifier</key>
-	<string>com.github.andyfarthing.munki.nativeaccess</string>
+	<string>com.github.ysju-performance.munki.nativeaccess</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -75,7 +75,7 @@ exit 0
 	<key>MinimumVersion</key>
     <string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.andyfarthing.pkg.native_access</string>
+	<string>com.github.ysju-performance.pkg.native_access</string>
 	<key>Process</key>
 	<array>
 		<dict>
