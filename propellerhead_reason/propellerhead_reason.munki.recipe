@@ -46,7 +46,7 @@
     			<key>additional_pkginfo</key>
     			<dict>
     				<key>version</key>
-    				<string>%version%</string>
+    				<string>$REASON_MAIN_VERS%.%version%</string>
     			</dict>
     		</dict>
     		<key>Processor</key>

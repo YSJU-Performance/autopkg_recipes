@@ -10,7 +10,7 @@
     <dict>
         <key>NAME</key>
         <string>Propellerhead Reason</string>
-        <key>REASON_VERS</key>
+        <key>REASON_MAIN_VERS</key>
         <string>10</string>
     </dict>
     <key>MinimumVersion</key>
@@ -25,7 +25,7 @@
                 <key>url</key>
                 <string>https://www.propellerheads.com/shop/product/reason-10/</string>
                 <key>re_pattern</key>
-                <string>Version: %REASON_VERS%.(?P&lt;version&gt;(\d)+)</string>
+                <string>Version: %REASON_MAIN_VERS%.(?P&lt;version&gt;(\d)+)</string>
             </dict>
         </dict>
         <dict>
@@ -34,7 +34,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>http://cdn.propellerheads.se/Reason%REASON_VERS%/Reason_%REASON_VERS%%version%0_d4.dmg</string>
+                <string>http://cdn.propellerheads.se/Reason%REASON_MAIN_VERS%/Reason_%REASON_MAIN_VERS%%version%0_d4.dmg</string>
             </dict>
         </dict>
         <dict>
