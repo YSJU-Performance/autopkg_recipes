@@ -49,10 +49,10 @@
                 <key>source_path</key>
                 <string>%pathname%/Reason %REASON_MAIN_VERS%/</string>
                 <key>destination_path</key>
-                <string>%pkgroot%/Applications/</string>
+                <string>%pkgroot%/Applications/Reason %REASON_MAIN_VERS%</string>
             </dict>
         </dict>
-         <dict>
+        <dict>
             <key>Comment</key>
             <string>Build the package</string>
             <key>Processor</key>
