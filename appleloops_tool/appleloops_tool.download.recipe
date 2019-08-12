@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the most recent version of appleloops script by carlashley from https://github.com/carlashley/appleloops</string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.download.appleloops_tool</string>
+    <string>com.github.ysju-performance.download.appleloops_tool</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>

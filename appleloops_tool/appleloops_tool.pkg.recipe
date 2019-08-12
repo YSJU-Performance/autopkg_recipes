@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Packages the Apple loops downloader tool from Carl Ashley - https://github.com/carlashley/appleloops</string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.pkg.appleloops_tool</string>
+    <string>com.github.ysju-performance.pkg.appleloops_tool</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -15,12 +15,12 @@
         <key>VERSION</key>
         <string>1.0</string>
         <key>PKG_ID</key>
-        <string>com.github.andyfarthing.pkg.appleloopstool</string>
+        <string>com.github.ysju-performance.pkg.appleloopstool</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-	<string>com.github.andyfarthing.download.appleloops_tool</string>
+	<string>com.github.ysju-performance.download.appleloops_tool</string>
     <key>Process</key>
     <array>
         <dict>

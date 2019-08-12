@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Imports the Apple Loops downloader tool from https://github.com/carlashley/appleloops into Munki</string>
     <key>Identifier</key>
-    <string>com.github.andyfarthing.munki.appleloops_py</string>
+    <string>com.github.ysju-performance.munki.appleloops_tool</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_CATEGORY</key>
@@ -37,7 +37,7 @@
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.andyfarthing.pkg.appleloops_tool</string>
+    <string>com.github.ysju-performance.pkg.appleloops_tool</string>
     <key>Process</key>
 	<array>
 		<dict>
