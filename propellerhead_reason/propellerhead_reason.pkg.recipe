@@ -67,6 +67,8 @@
                     <string>%REASON_MAIN_VERS%.%version%</string>
                     <key>pkgdir</key>
                     <string>%RECIPE_CACHE_DIR%</string>
+                    <key>pkgroot</key>
+                    <string>%pkgroot%</string>
                     <key>id</key>
                     <string>%PKG_ID%</string>
                     <key>options</key>
