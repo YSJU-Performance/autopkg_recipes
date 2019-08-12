@@ -60,12 +60,15 @@
                 <string>%RECIPE_DIR%/payload/login-once</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/usr/local/outset/</string>
+                <key>source_path</key>
                 <string>%RECIPE_DIR%/payload/login-every</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/usr/local/outset/</string>
+                <key>source_path</key>
                 <string>%RECIPE_DIR%/payload/login-priveleged-once</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/usr/local/outset/</string>
+                <key>source_path</key>
                 <string>%RECIPE_DIR%/payload/login-priveleged-every</string>
                 <key>destination_path</key>
                 <string>%pkgroot%/usr/local/outset/</string>
