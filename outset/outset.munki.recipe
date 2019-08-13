@@ -21,6 +21,10 @@
             </array>
             <key>description</key>
             <string>Outset is a script which automatically processes packages, profiles, and scripts during the boot sequence, user logins, or on demand.</string>
+            <key>developer</key>
+            <string>chilcote</string>
+            <key>display_name</key>
+            <string>Outset</string>
             <key>name</key>
             <string>%NAME%</string>
             <key>unattended_install</key>
