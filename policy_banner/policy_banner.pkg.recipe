@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Builds a package that places a policy banner into the Security directory.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.policy_banner</string>
+    <string>com.github.ysju-performance.pkg.policy_banner</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
