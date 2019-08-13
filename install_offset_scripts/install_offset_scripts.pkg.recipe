@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Builds a package that places offset scripts into the correct folder.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.install_offset_scripts</string>
+    <string>com.github.ysju-performance.pkg.install_offset_scripts</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
