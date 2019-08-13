@@ -5,17 +5,17 @@
     <key>Description</key>
     <string>Builds a package that places offset scripts into the correct folder.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.deploy_offset_scripts</string>
+    <string>com.github.ysju-performance.install_offset_scripts</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>ysju-deploy_offset_scripts</string>
+        <string>ysju-install_offset_scripts</string>
         <key>URL</key>
         <string>https://github.com/ysju-performance/autopkg_recipes</string>
         <key>VERSION</key>
         <string>1.0</string>
         <key>PKG_ID</key>
-        <string>com.github.ysjuperformance.deployoffsetscripts</string>
+        <string>com.github.ysjuperformance.installoffsetscripts</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
