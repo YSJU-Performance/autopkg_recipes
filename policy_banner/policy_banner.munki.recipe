@@ -13,7 +13,7 @@
         <key>MUNKI_REPO_SUBDIR</key>
         <string>utilities</string>
         <key>NAME</key>
-        <string>Deploy macOS Policy Banner</string>
+        <string>Music Production macOS Policy Banner</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
