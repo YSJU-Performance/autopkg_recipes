@@ -5,17 +5,17 @@
     <key>Description</key>
     <string>Builds a package that places a policy banner into the Security directory.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.deploy_policy_banner</string>
+    <string>com.github.ysju-performance.policy_banner</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>ysju-deploy_policy_banner</string>
+        <string>ysju-policy_banner</string>
         <key>URL</key>
         <string>https://github.com/andyfarthing/ysj-autopkg_recipes</string>
         <key>VERSION</key>
         <string>1.1</string>
         <key>PKG_ID</key>
-        <string>com.github.ysju-performance.deploypolicybanner</string>
+        <string>com.github.ysju-performance.policybanner</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
