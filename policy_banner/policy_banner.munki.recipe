@@ -48,7 +48,7 @@
             	<key>additional_pkginfo</key>
             	<dict>
             		<key>version</key>
-            		<string>%version%</string>
+            		<string>%VERSION%</string>
             	</dict>
 			</dict>
 		</dict>
