@@ -50,6 +50,8 @@
             		<key>version</key>
             		<string>%VERSION%</string>
             	</dict>
+                <key>additional_makepkginfo_options</key>
+                <string>--requires="offset"</string>
 			</dict>
 		</dict>
 		<dict>
