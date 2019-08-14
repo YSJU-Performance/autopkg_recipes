@@ -27,6 +27,27 @@
 			<string>CURLDownloader</string>
 		</dict>
 		<dict>
+            <key>Processor</key>
+            <string>Unarchiver</string>
+            <key>Arguments</key>
+            <dict>
+                <key>archive_path</key>
+                <string>%pathname%</string>
+                <key>destination_path</key>
+                <string>%RECIPE_CACHE_DIR%/downloads</string>
+            </dict>
+        </dict>
+        <dict>
+        <key>Processor</key>
+            <string>PathDeleter</string>
+            <key>Arguments</key>
+            <dict>
+                <key>path_list</key>
+                <string>%pathname%</string>
+            </dict>
+        </dict>
+
+		<dict>
 			<key>Processor</key>
 			<string>EndOfCheckPhase</string>
 		</dict>
