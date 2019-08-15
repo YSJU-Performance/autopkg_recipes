@@ -31,9 +31,7 @@
 			<key>name</key>
 			<string>%NAME%</string>
 			<key>postinstall_script</key>
-            <string>
-
-#!/bin/bash
+			<string>#!/bin/sh
 
 launchDaemon="/Library/LaunchDaemons/com.native-instruments.NativeAccess.Helper2.plist"
 helperToolPath="/Library/PrivilegedHelperTools/com.native-instruments.NativeAccess.Helper2"
@@ -44,8 +42,8 @@ helperTool="com.native-instruments.NativeAccess.Helper2"
 
 # Check for and delete any pre-existing Launch Daemon
 if [[ -e "$launchDaemon" ]]; then
-	/bin/launchctl unload "$launchDaemon"
-	rm -rf "$launchDaemon"
+    /bin/launchctl unload "$launchDaemon"
+    rm -rf "$launchDaemon"
 fi
 
 # Create the new Launch Daemon
@@ -66,7 +64,6 @@ fi
 /bin/launchctl load "$launchDaemon"
 
 exit 0
-			
 			</string>
 			<key>unattended_install</key>
 			<true/>
