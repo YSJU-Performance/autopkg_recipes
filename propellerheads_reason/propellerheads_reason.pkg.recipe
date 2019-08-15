@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Builds a package that places outset scripts into the correct folder.</string>
     <key>Identifier</key>
-    <string>com.github.ysju-performance.pkg.propellerheads_reason</string>
+    <string>com.github.ysju-performance.pkg.propellerheadsreason</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -15,12 +15,12 @@
         <key>VERSION</key>
         <string>1.0</string>
         <key>PKG_ID</key>
-        <string>com.github.ysjuperformance.propellerheads_reason</string>
+        <string>com.github.ysjuperformance.propellerheadsreason</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.ysju-performance.download.propellerheads_reason</string>
+    <string>com.github.ysju-performance.download.propellerheadsreason</string>
     <key>Process</key>
     <array>
         <dict>
