@@ -37,7 +37,7 @@
 	<key>MinimumVersion</key>
     <string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.ysju-performance.pkg.elicenserControlCenter</string>
+	<string>com.github.ysju-performance.download.elicenserControlCenter</string>
 	<key>Process</key>
 	<array>
 		<dict>
@@ -58,7 +58,9 @@
 			<key>Arguments</key>
 			<dict>
 				<key>pkg_path</key>
-				<string>%pathname%</string>
+				<string>%pathname%/eLicenserControlSetup.app</string>
+				<key>uninstaller_pkg_path</key>
+				<string>%pathname%/eLC-Uninstaller.app</string>
 				<key>repo_subdirectory</key>
 				<string>%MUNKI_REPO_SUBDIR%</string>
 			</dict>
