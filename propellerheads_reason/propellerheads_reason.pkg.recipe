@@ -60,7 +60,7 @@
             <key>Arguments</key>
             <dict>
                 <key>pkgname</key>
-                <string>%NAME%-%REASON_MAIN_VERS%.%version%</string>
+                <string>%NAME%</string>
                 <key>version</key>
                 <string>%REASON_MAIN_VERS%.%version%</string>
                 <key>pkg_request</key>
