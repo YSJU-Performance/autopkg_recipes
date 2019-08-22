@@ -29,11 +29,6 @@
         <dict>
             <key>Processor</key>
             <string>URLDownloader</string>
-            <key>Arguments</key>
-            <dict>
-                <key>url</key>
-                <string>https://github.com/carlashley/appleloops/archive/appleloops-%version%.pkg</string>
-            </dict>
         </dict>
         <dict>
             <key>Processor</key>
