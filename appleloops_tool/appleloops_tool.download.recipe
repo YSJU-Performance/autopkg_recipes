@@ -14,14 +14,14 @@
     <key>MinimumVersion</key>
     <string>1.0.0</string>
     <key>Process</key>
-    <array>
+<array>
         <dict>
             <key>Processor</key>
-            <string>URLTextSearcher</string>
+            <string>GitHubReleasesInfoProvider</string>
             <key>Arguments</key>
             <dict>
-                <key>url</key>
-                <string>https://github.com/carlashley/appleloops/releases/latest</string>
+                <key>github_repo</key>
+                <string>carlashley/appleloops</string>
                 <key>re_pattern</key>
                 <string>appleloops-(?P&lt;version&gt;(\d.\d.\d)+)</string>
             </dict>
